@@ -15,4 +15,3 @@ void main() {
     arithmetical_mean /= n;
     printf("%.1lf\n", arithmetical_mean);
 }
-
