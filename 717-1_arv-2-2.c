@@ -2,6 +2,7 @@
 #include<malloc.h>
 #include<math.h>
 
+
 void main () {
     unsigned int n;
     int result = 0;
